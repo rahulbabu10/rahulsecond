@@ -1,3 +1,2 @@
 hello 
-this is my second folder 
-
+this is my second folder erasing data 
